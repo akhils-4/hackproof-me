@@ -133,3 +133,9 @@ _Complete scan history showing all previous security scans with scores and risk 
 
 HackProof Me helps users assess and strengthen their online security by combining breach detection and password analysis in one place.
 It empowers everyone to stay one step ahead of cyber threats.
+
+---
+
+## 🧾 License
+
+This project is licensed under the [MIT License](./LICENSE) © 2025 Akhil Singh.
