@@ -74,6 +74,55 @@ spring.datasource.password=root
 
 ---
 
+## 📸 Screenshots
+
+### 1. Home Page - Hero Section
+
+![Home Page](screenshots/01-home.png)
+_Professional homepage with security features overview and clear call-to-action_
+
+### 2. Home Page - Scan Form
+
+![Home Page Form](screenshots/02-home.png)
+_Complete home page showing the security scan form with email and password inputs_
+
+### 3. Scan Form Input
+
+![Scan Form](screenshots/03-scan-form.png)
+_User enters credentials and clicks "Run Security Scan" button_
+
+### 4. Scan Results Dashboard
+
+![Results](screenshots/04-results.png)
+_Beautiful results dashboard showing overall security score and risk level with detailed metrics_
+
+### 5. Security Score Gauge
+
+![Score Gauge](screenshots/05-score-gauge.png)
+_Interactive gauge visualization showing security score (0-100) with color-coded risk indicator_
+
+### 6. Security Recommendations
+
+![Recommendations](screenshots/06-recommendations.png)
+_Personalized security recommendations with actionable tips to improve security_
+
+### 7. Scan History
+
+![History](screenshots/07-history.png)
+_Complete scan history showing all previous security scans with scores and risk levels_
+
+---
+
+## 🔐 Security Features
+
+- SHA-256 identifier hashing
+- No password storage (analysis only)
+- CORS protection
+- Input validation
+- SQL injection prevention
+
+---
+
 ## 👨‍💻 Author
 
 **Akhil Singh**
